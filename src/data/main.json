@@ -1,0 +1,8 @@
+[
+    {
+        "componentName": "header",
+        "in" : {
+            "title": "json-main"
+        }
+    }
+]
